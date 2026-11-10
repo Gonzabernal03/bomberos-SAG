@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("isMWInboxFirstSendFixEnabled",["gkx","justknobx"],(function(t,n,r,o,a,i,l){"use strict";function e(){return r("justknobx")._("6889")&&!r("gkx")("27233")}l.default=e}),98);

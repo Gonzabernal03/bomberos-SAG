@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometReels_enable_e2e_logging_gk.relayprovider",["CometReelsE2EDeliveryLoggingEntryPointVariables"],(function(t,n,r,o,a,i,l){"use strict";var e={get:function(){return r("CometReelsE2EDeliveryLoggingEntryPointVariables").enabled}};l.default=e}),98);
+__d("ProfileCometCollegeProfileFieldEditFormQuery_facebookRelayOperation",[],(function(t,n,r,o,a,i){a.exports="30273694075551152"}),null);
